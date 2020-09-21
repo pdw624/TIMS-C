@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Training\Client\SocketClient\x64\Debug\SocketClient.exe
+C:\Users\user\source\repos\Training\Client\SocketClient\x64\Debug\SocketClient.pdb
